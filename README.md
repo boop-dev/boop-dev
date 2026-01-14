@@ -75,7 +75,6 @@ Full-stack web application for managing geological data with a dynamic query bui
 - Email: [echiahachris@mun.ca](mailto:echiahachris@mun.ca)
 - Phone: 709-219-4496
 - GitHub: [@boop-dev](https://github.com/boop-dev)
-- Website: [struo.app](https://struo.app)
 
 ---
 
