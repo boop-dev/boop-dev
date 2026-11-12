@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 56" width="1200" height="56">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#2E86C1"/><stop offset="1" stop-color="#2E86C1" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="14" width="6" height="28" rx="3" fill="#2E86C1"/>
+<text x="22" y="36" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#58A6FF">About</text>
+<rect x="0" y="52" width="1200" height="2" fill="url(#l)" opacity="0.55"/>
+</svg>
