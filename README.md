@@ -1,102 +1,118 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1A5276&height=180&section=header&text=Emmanuel%20Chiaha&fontSize=42&fontColor=ffffff)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86C1&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Computer+Science+Graduate;Open+to+Work)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2E86C1,100:1A5276&height=140&section=header&text=Emmanuel%20Chiaha&fontSize=40&fontColor=ffffff&fontAlignY=50" alt="Emmanuel Chiaha" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2E86C1&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Computer+Science+Graduate;Open+to+Work)](https://git.io/typing-svg)
 
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-2E86C1?style=for-the-badge&logo=github&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=boop-dev&style=flat-square)
+![Location](https://img.shields.io/badge/St._John's,_NL-1A5276?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=boop-dev&style=for-the-badge&color=2E86C1&label=Views)
+
+[Email](mailto:echiahachris@mun.ca) &nbsp;·&nbsp; [Projects](#-featured-projects) &nbsp;·&nbsp; [Stack](#-tech-stack) &nbsp;·&nbsp; [Contact](#-get-in-touch)
 
 </div>
 
-## About Me
+<br />
 
-- 🎓 B.Sc. in Computer Science, Memorial University of Newfoundland (Dec 2025)
-- 📍 Based in St. John's, Newfoundland and Labrador, Canada
-- 💻 I build full-stack web applications, from database to interface
-- 🔍 Currently looking for my next role (see below)
+## 👋 About
 
-## What I'm Looking For
+I build full-stack web applications, from the database to the interface.
 
-- **Help Desk / IT Support**
-- **Software Development**
-- **Technical Analyst**
-- **Product Owner** (Junior / Associate)
+|  |  |
+|---|---|
+| 🎓 **Education** | B.Sc. in Computer Science, Memorial University of Newfoundland (Dec 2025) |
+| 📍 **Location** | St. John's, Newfoundland and Labrador, Canada |
+| 🌎 **Availability** | Remote across Canada, or relocating within Canada for the right role |
 
-Open to remote work across Canada, and open to relocating within Canada for the right role.
+## 🎯 Open To
 
-## Currently Building
+| Help Desk / IT Support | Software Development | Technical Analyst | Product Owner |
+|:---:|:---:|:---:|:---:|
+| Support and troubleshooting | Full-stack engineering | Requirements and data | Junior / Associate |
 
-- **Fraud Detection Platform** — a real-time fraud detection system in Python. In progress. [Repo](https://github.com/boop-dev/FraudDetectionSoftware)
+## 🚧 Currently Building
 
-## Featured Projects
+> **[Fraud Detection Platform](https://github.com/boop-dev/FraudDetectionSoftware)**: a real-time fraud detection system in Python. *In progress.*
 
-| Project | Stack | What It Does |
-|---|---|---|
-| [Fraud Detection Software](https://github.com/boop-dev/FraudDetectionSoftware) | Python | Real-time fraud detection platform. In progress. |
-| [Geology Database Management System](https://github.com/boop-dev/COMP4754-AppliedGroup2-Fall2025) | Python, Flask, SQLite, HTMX | Full-stack app for managing geological data with a dynamic query builder and real-time updates. Team project, Fall 2025. [Live Demo](https://comp4754-appliedgroup2-fall2025.onrender.com) |
-| [FlavorRea](https://github.com/boop-dev/Flavorea) | React, Node.js, Material UI | Recipe website with dynamic recipe search and category browsing. [Live Demo](https://flavorea.onrender.com) |
-| [Game Of Life Simulator](https://github.com/boop-dev/Game-Of-Life) | Java, Swing | Conway's Game of Life simulation with cell initialization patterns and a graphical interface. |
+## 🚀 Featured Projects
 
-## Tech Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/boop-dev/COMP4754-AppliedGroup2-Fall2025">Geology Database Management System</a></h3>
+      <p>Full-stack app for managing geological data, with a dynamic query builder and real-time updates. Team project, Fall 2025.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/HTMX-1a1a1a?style=flat-square&logo=htmx&logoColor=white" /></p>
+      <p><a href="https://comp4754-appliedgroup2-fall2025.onrender.com">Live demo →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/boop-dev/Flavorea">FlavorRea</a></h3>
+      <p>Recipe website with dynamic recipe search and category browsing.</p>
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" /></p>
+      <p><a href="https://flavorea.onrender.com">Live demo →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/boop-dev/FraudDetectionSoftware">Fraud Detection Software</a></h3>
+      <p>Real-time fraud detection platform. In progress.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/boop-dev/Game-Of-Life">Game of Life Simulator</a></h3>
+      <p>Conway's Game of Life with cell initialization patterns and a graphical interface.</p>
+      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Swing-2E86C1?style=flat-square" /></p>
+    </td>
+  </tr>
+</table>
 
-**Frontend:**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-1a1a1a?style=flat&logo=htmx&logoColor=white)
+## 🧰 Tech Stack
 
-**Backend:**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+**Frontend**<br />
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-1a1a1a?style=flat-square&logo=htmx&logoColor=white)
 
-**Database & Tools:**
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+**Backend**<br />
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
-## GitHub Activity
+**Database & Tools**<br />
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boop-dev&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boop-dev&theme=dark&hide_border=true&background=0D1117)
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+
+<img src="https://raw.githubusercontent.com/boop-dev/boop-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
-## 3D Contribution Graph
+## 📬 Get in Touch
 
-My year of contributions as a 3D skyline.
+[![Email](https://img.shields.io/badge/Email-echiahachris@mun.ca-2E86C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:echiahachris@mun.ca)
+[![GitHub](https://img.shields.io/badge/GitHub-boop--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boop-dev)
+
+📞 709-219-4496
 
 <div align="center">
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+<br />
+
+*"Talk is cheap. Show me the code."* — Linus Torvalds
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2E86C1,100:1A5276&height=80&section=footer" alt="" width="100%" />
 
 </div>
-
-## Snake
-
-The snake eats its way through my contribution graph.
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/boop-dev/boop-dev/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-## Get in Touch
-
-- Email: [echiahachris@mun.ca](mailto:echiahachris@mun.ca)
-- Phone: 709-219-4496
-- GitHub: [@boop-dev](https://github.com/boop-dev)
-
----
-
-*"Talk is cheap. Show me the code."* - Linus Torvalds
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1A5276&height=120&section=footer)
